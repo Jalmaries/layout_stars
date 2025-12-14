@@ -4,11 +4,7 @@ body {
 
 .stars {
   display: flex;
-  flex-direction: column;
-}
-
-.stars > div {
-  display: flex;
+  flex-direction: row;
 }
 
 .stars__star {
